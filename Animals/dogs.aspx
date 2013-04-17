@@ -18,5 +18,9 @@
         &nbsp;</p>
     <p>
         Adding a new bug fix: dogbug1</p>
+    <p>
+        &nbsp;</p>
+    <p>
+        Adding dogfeature2</p>
 </body>
 </html>

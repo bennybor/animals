@@ -12,5 +12,7 @@
     <h1>This is the dogs page</h1>
     </div>
     </form>
+    <p>
+        Adding a new feature called dogfeature1</p>
 </body>
 </html>

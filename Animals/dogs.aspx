@@ -14,5 +14,9 @@
     </form>
     <p>
         Adding a new feature called dogfeature1</p>
+    <p>
+        &nbsp;</p>
+    <p>
+        Adding a new bug fix: dogbug1</p>
 </body>
 </html>

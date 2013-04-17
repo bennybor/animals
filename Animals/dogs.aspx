@@ -22,5 +22,7 @@
         &nbsp;</p>
     <p>
         Adding dogfeature2</p>
+    <p>
+        Adding dogfeature3</p>
 </body>
 </html>

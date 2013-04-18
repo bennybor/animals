@@ -11,6 +11,9 @@
     <div>
     This Is My Cat Page! :)
     </div>
+    <div>
+    THIS IS A BUG FIX #1 
+    </div>
     </form>
 </body>
 </html>

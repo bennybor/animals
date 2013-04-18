@@ -13,6 +13,7 @@
     </div>
     <div>
     THIS IS A BUG FIX #1 
+    THIS IS A BUG FIX #2
     </div>
     </form>
 </body>
